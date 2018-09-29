@@ -1,7 +1,7 @@
-## Instant Search
+# Instant Search
 
-A Fast Search Data Structure 
-An API which responds to a search query searches the source file [`data.csv`](https://drive.google.com/open?id=1zDicarnkZj17R9QVydo6agpb5LE5XaLC) contains > 300k names.
+* A Fast Search Data Structure 
+* An API which responds to a search query searches the source file [`data.csv`](https://drive.google.com/open?id=1zDicarnkZj17R9QVydo6agpb5LE5XaLC) contains > 300k names.
 
 
 Install flask:
